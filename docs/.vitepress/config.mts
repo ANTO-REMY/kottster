@@ -56,7 +56,7 @@ export default defineConfig({
     // ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/kottster/kottster' },
+      { icon: 'github', link: 'https://github.com/homebithub/kottster' },
       { icon: 'discord', link: 'https://kottster.app/discord' },
     ]
   },

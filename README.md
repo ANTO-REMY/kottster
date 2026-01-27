@@ -81,18 +81,18 @@ After running the project, you'll need to log in to your account or create a new
 
 We welcome feedback and contributions!
 
-- 🐛 [Report a bug](https://github.com/kottster/kottster/issues/new?template=bug_report.md)
-- 💡 [Suggest a feature](https://github.com/kottster/kottster/issues/new?template=feature_request.md)
-- 📚 [Improve the docs](https://github.com/kottster/kottster/issues/new?template=docs_improvement.md)
+- 🐛 [Report a bug](https://github.com/homebithub/kottster/issues/new?template=bug_report.md)
+- 💡 [Suggest a feature](https://github.com/homebithub/kottster/issues/new?template=feature_request.md)
+- 📚 [Improve the docs](https://github.com/homebithub/kottster/issues/new?template=docs_improvement.md)
 
-See [CONTRIBUTING.md](https://github.com/kottster/kottster/blob/main/CONTRIBUTING.md) for guidelines.
+See [CONTRIBUTING.md](https://github.com/homebithub/kottster/blob/main/CONTRIBUTING.md) for guidelines.
 
 ## Need Help?
 
 - 💬 [Join our Discord](https://discord.com/invite/Qce9uUqK98)
-- 📬 [Contact us](https://kottster.app/contact-us)
-- ✉️ [team@kottster.app](mailto:team@kottster.app)
+- 📬 Contact us: HOMEBIT HUB
+- ✉️ [info@homebit.co.ke](mailto:info@homebit.co.ke)
 
 ## License
 
-Kottster is licensed under the terms of [Apache License 2.0](https://github.com/kottster/kottster/blob/main/LICENSE).
+Kottster is licensed under the terms of [Apache License 2.0](https://github.com/homebithub/kottster/blob/main/LICENSE).

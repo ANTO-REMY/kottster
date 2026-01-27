@@ -7,10 +7,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kottster/kottster.git"
+    "url": "https://github.com/homebithub/kottster.git"
   },
   "bugs": {
-    "url": "https://github.com/kottster/kottster/issues"
+    "url": "https://github.com/homebithub/kottster/issues"
   },
-  "homepage": "https://kottster.app/"
+  "homepage": "https://github.com/homebithub/kottster"
 }

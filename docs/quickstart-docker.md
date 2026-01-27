@@ -15,7 +15,7 @@ Both the `Dockerfile` and `docker-compose.yml` are already included in the repos
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/kottster/kottster-template-js my-kottster-app
+git clone https://github.com/homebithub/kottster-template-js my-kottster-app
 
 cd my-kottster-app
 ```
@@ -57,7 +57,7 @@ docker-compose logs
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/kottster/kottster-template-js my-kottster-app
+git clone https://github.com/homebithub/kottster-template-js my-kottster-app
 
 cd my-kottster-app
 ```

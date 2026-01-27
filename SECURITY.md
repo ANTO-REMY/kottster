@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in this project, please report it privately by emailing:
 
-**team@kottster.app**
+**info@homebit.co.ke**
 
 Please do not report security vulnerabilities through public GitHub issues.
 

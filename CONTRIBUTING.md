@@ -88,7 +88,7 @@ Before submitting a bug report:
 - Check the issue tracker to see if the bug has already been reported
 - Ensure you're using the latest version of the software
 
-To report a bug, create an issue using the [bug report](https://github.com/kottster/kottster/issues/new?template=bug_report.md) template and include:
+To report a bug, create an issue using the [bug report](https://github.com/homebithub/kottster/issues/new?template=bug_report.md) template and include:
 - A clear title and description
 - Steps to reproduce the issue
 - Expected behavior
@@ -97,7 +97,7 @@ To report a bug, create an issue using the [bug report](https://github.com/kotts
 
 ### 🛠 Suggesting Features
 
-Feature suggestions are tracked as GitHub issues. Create an issue using the [feature request](https://github.com/kottster/kottster/issues/new?template=feature_request.md) template and provide:
+Feature suggestions are tracked as GitHub issues. Create an issue using the [feature request](https://github.com/homebithub/kottster/issues/new?template=feature_request.md) template and provide:
 - A clear title and description
 - Justification for the feature
 - Possible implementation details (optional)
