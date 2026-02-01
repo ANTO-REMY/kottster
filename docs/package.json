@@ -1,4 +1,7 @@
 {
+  "name": "kottster-docs",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",

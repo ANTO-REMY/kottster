@@ -1,0 +1,23 @@
+{
+  "name": "kottster-monorepo",
+  "version": "3.5.1",
+  "private": true,
+  "description": "Kottster monorepo - Instant admin panel for your app",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/homebithub/kottster.git"
+  },
+  "bugs": {
+    "url": "https://github.com/homebithub/kottster/issues"
+  },
+  "homepage": "https://github.com/homebithub/kottster",
+  "scripts": {
+    "dev": "echo 'This is the Kottster framework source. To create an app, run: npx @kottster/cli@latest new my-app' && echo 'To build the framework packages, run: npm run build:all'",
+    "build:cli": "cd packages/cli && npm run build",
+    "build:common": "cd packages/common && npm run build",
+    "build:server": "cd packages/server && npm run build",
+    "build:all": "npm run build:common && npm run build:cli && npm run build:server",
+    "install:all": "cd packages/common && npm install --legacy-peer-deps && cd ../cli && npm install --legacy-peer-deps && cd ../server && npm install --legacy-peer-deps"
+  }
+}
